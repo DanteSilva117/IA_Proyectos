@@ -1,6 +1,6 @@
 # Reporte de Practica 1 Emociones
 
-[Regreso al indice](/Indice.md)
+[Regreso al indice](/README.md)
 
 ## Cómo realicé el código
 

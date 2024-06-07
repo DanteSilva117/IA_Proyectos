@@ -1,5 +1,5 @@
 # Reporte 5, Bola que rebota
-[Regreso al indice](/Indice.md)
+[Regreso al indice](/README.md)
 ## Descripción General
 Este proyecto consiste en un juego donde un personaje (jugador) debe evitar colisiones con una bala moviéndose en las direcciones derecha, izquierda, arriba y abajo. Para dotar al personaje de inteligencia, he integrado una red neuronal artificial (ANN) que aprende de los datos de entrenamiento y toma decisiones automáticamente.
 

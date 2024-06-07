@@ -1,5 +1,5 @@
 # Reporte practica 2 Wally
-[Regreso al indice](/Indice.md)
+[Regreso al indice](/README.md)
 ## ¿Como se uso el codigo?
 
 Para general el `cascade.xml` se uso la aplicacion de **Cascade-Trainer-GUI** 

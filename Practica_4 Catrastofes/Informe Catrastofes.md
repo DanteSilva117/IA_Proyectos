@@ -1,5 +1,5 @@
 # Reporte 4, Catrastofes
-[Regreso al indice](/Indice.md)
+[Regreso al indice](/README.md)
 ## Modificación del Código
 
 Ya teníamos el código gracias al archivo `CNN.ipynb` proporcionado por el profesor. Contiene todo lo necesario, desde la creación del modelo hasta el entrenamiento y los métodos para probarlo con imágenes. Solo fue necesario ajustar las rutas para cargar y guardar archivos.

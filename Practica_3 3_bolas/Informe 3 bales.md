@@ -1,5 +1,5 @@
 # Reporte practica 3, 3 pelotas
-[Regreso al indice](/Indice.md)
+[Regreso al indice](/README.md)
 ## Descripción General
 Este proyecto consiste en un juego donde mi personaje debe evitar colisiones con bolas y otros obstáculos moviéndose a la derecha, a la izquierda y saltando. Para mejorar la experiencia del juego y dotar al personaje de cierta inteligencia, he integrado una red neuronal artificial (ANN) que aprende de los datos de entrenamiento y toma decisiones automáticamente.
 
